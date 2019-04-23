@@ -1,0 +1,3 @@
+Calulator.qrc|"E:\项目练习\Calulator\Calulator\Calulator.qrc" -o ".\GeneratedFiles\qrc_Calulator.cpp" --name Calulator
+Calulator.ui|"E:\项目练习\Calulator\Calulator\Calulator.ui" -o ".\GeneratedFiles\ui_Calulator.h"
+Calulator.h|"E:\项目练习\Calulator\Calulator\Calulator.h" -o ".\GeneratedFiles\Debug\moc_Calulator.cpp" "-I.\GeneratedFiles" "-I." "-ID:\QT\5.9.2\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-ID:\QT\5.9.2\msvc2017_64\include\QtCore" "-ID:\QT\5.9.2\msvc2017_64\include\QtGui" "-ID:\QT\5.9.2\msvc2017_64\include\QtANGLE" "-ID:\QT\5.9.2\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
