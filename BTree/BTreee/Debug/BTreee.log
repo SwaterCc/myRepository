@@ -1,0 +1,4 @@
+﻿  Char_BTree.cpp
+e:\数据结构\btreee\btreee\char_btree.h(9): warning C4091: “typedef ”: 没有声明变量时忽略“TNode”的左侧
+e:\数据结构\btreee\btreee\char_btree.cpp(13): warning C4018: “>=”: 有符号/无符号不匹配
+  BTreee.vcxproj -> E:\数据结构\BTreee\Debug\BTree.exe
